@@ -1,0 +1,5 @@
+﻿  UP_2017_10_05.cpp
+c:\users\stamaniorec\documents\visual studio 2015\projects\up_2017_10_05\up_2017_10_05\up_2017_10_05.cpp(71): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\stamaniorec\documents\visual studio 2015\projects\up_2017_10_05\up_2017_10_05\up_2017_10_05.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UP_2017_10_05.vcxproj -> C:\Users\stamaniorec\documents\visual studio 2015\Projects\UP_2017_10_05\Debug\UP_2017_10_05.exe
+  UP_2017_10_05.vcxproj -> C:\Users\stamaniorec\documents\visual studio 2015\Projects\UP_2017_10_05\Debug\UP_2017_10_05.pdb (Full PDB)
